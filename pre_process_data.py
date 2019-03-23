@@ -83,7 +83,7 @@ class SingleCellAnalysis():
     def cluster_cells(self):
         '''
         Perform clustering on the expression matrix. 
-            Input: cell x gene expression table
+            Input: gene x cells expression table
             Output: Clusters of cells
         '''
 
